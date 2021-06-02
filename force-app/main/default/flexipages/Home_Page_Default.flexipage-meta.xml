@@ -4,20 +4,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-<<<<<<< HEAD
-                    <name>latField</name>
-                    <value>Location__Latitude__s</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>longField</name>
-                    <value>Location__Longitude__s</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>titleField</name>
-                    <value>Name</value>
-                </componentInstanceProperties>
-                <componentName>RecordMap</componentName>
-=======
                     <name>animations</name>
                     <value>true</value>
                 </componentInstanceProperties>
@@ -42,26 +28,6 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
-<<<<<<< HEAD
-                <componentInstanceProperties>
-                    <name>latField</name>
-                    <value>Location__Latitude__s</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>longField</name>
-                    <value>Location__Longitude__s</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>titleField</name>
-                    <value>Name</value>
-                </componentInstanceProperties>
-                <componentName>RecordMap</componentName>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
-=======
->>>>>>> master
                 <componentName>home:recentRecordContainer</componentName>
             </componentInstance>
         </itemInstances>
